@@ -87,11 +87,11 @@ Métodos de pago: Credit Card es el método con más ventas, con cerca de 32 mil
 
 ## Estructura del proyecto
 
-- Amazon_limpio.xlsx: datos limpios con las columnas Año y Mes.
-- Dashboard_Amazon.pbix: archivo de Power BI con el modelo, las medidas y el dashboard.
+- Amazon_limpio (1).xlsx: datos limpios con las columnas Año y Mes.
+- Analisis-Amazon.pbix: archivo de Power BI con el modelo, las medidas y el dashboard.
 - dashboard.png: captura del dashboard.
 - README.md: este documento.
 
 ## Autor
 
-Fajardo Rojas
+Adonis Fajardo Rojas
